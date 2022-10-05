@@ -1,1 +1,4 @@
-pwd print-working-directory
+#!/bin/sh
+pwd 
+#print working directory
+
