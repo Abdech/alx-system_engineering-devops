@@ -1,4 +1,2 @@
-#!/bin/sh
-pwd 
-#print working directory
-
+#!/bin/bash
+pwd
